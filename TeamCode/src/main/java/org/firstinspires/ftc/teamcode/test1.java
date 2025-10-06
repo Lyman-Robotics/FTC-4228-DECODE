@@ -103,7 +103,7 @@ public class test1 extends LinearOpMode {
         // Wait for the game to start (driver presses START)
         telemetry.addData("Status", "Initialized");
         telemetry.update();
-        .
+        
         waitForStart();
         runtime.reset();
 
