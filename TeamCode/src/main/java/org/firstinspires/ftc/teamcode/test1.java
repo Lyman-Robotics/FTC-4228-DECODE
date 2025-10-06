@@ -75,7 +75,7 @@ public class test1 extends LinearOpMode {
     private DcMotor frontRightDrive = null;
     private DcMotor backRightDrive = null;
 
-    private DcMotor TestTest1;
+    private DcMotor TestTest12;
 
     @Override
     public void runOpMode() {
